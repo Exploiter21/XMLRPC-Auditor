@@ -20,6 +20,7 @@ This tool has only one option which is `-url`. It will ask for a WordPress insta
 
 ### Wroking
 Here is the proper working of the tool.
-[(https://github.com/user-attachments/assets/7a590b2a-8b43-4517-9b7d-42338ca08646)](https://github.com/user-attachments/assets/28e42ce1-5ba9-4a01-bf03-cfe8ee7ef465)
+
+https://github.com/user-attachments/assets/e5114be3-3a88-4e19-b56f-fa626609ca4a
 
 
